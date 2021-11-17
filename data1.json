@@ -1,0 +1,36 @@
+[
+  {
+    "data_type": "user_info",
+    "user_id": "1",
+    "first_name": "abc",
+    "last_name": "xyz",
+    "address": {
+      "line1": "alsjdlajskldjaskldj",
+      "line2": "alsjdlajskldjaskldj",
+      "city": "city1",
+      "zipcode": "123123",
+      "state": "state1",
+      "country": "country1"
+    },
+    "phone_no": "8827272834",
+    "kyc_status": "true",
+    "account_type": "savings"
+  },
+  {
+    "data_type": "user_info",
+    "user_id": "2",
+    "first_name": "def",
+    "last_name": "pqr",
+    "address": {
+      "line1": "alsjdlajskldjaskldj",
+      "line2": "alsjdlajskldjaskldj",
+      "city": "city2",
+      "zipcode": "123123",
+      "state": "state2",
+      "country": "country2"
+    },
+    "phone_no": "8827272834",
+    "kyc_status": "true",
+    "account_type": "current"
+  }
+]
